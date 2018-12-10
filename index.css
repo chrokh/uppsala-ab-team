@@ -36,9 +36,6 @@ h1, a:hover, a:hover h3 { color: 	#bf1f32; }
 /* images */
 img { max-width: 100%; }
 
-audio       { opacity: 0.4; }
-audio:hover { opacity: 1; }
-
 /* image links */
 a:hover img {
   opacity: 0.8;
