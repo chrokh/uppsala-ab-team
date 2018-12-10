@@ -86,6 +86,17 @@ a:hover img {
 }
 
 
+#projects {
+  display:                grid;
+  grid-template-columns:  repeat(2, 1fr);
+  grid-gap:               1rem 3rem;
+  grid-auto-rows:         minmax(100px, auto);
+}
+#projects p {
+  text-align: justify;
+}
+
+
 
 #domains img {
   width:     100px;
